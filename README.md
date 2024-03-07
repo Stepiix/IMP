@@ -1,8 +1,8 @@
-# IMP
+# Project for Microprocessor and embedded systems on VUT FIT
 
-# Light switching according to intensity
+# IMP - project 
 
-Project for Microprocessor and embedded systems on VUT FIT
+Light switching according to intensity
 
 in this video you can see how my light changes intensity based on the ambient light
 
